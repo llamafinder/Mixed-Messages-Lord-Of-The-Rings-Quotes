@@ -12,7 +12,7 @@ This is my Lord Of The Rings themed quote generator, i decided to make it fun by
 just click on the button to generate random famous Lord Of The Rings Quotes.
 its a basic genartor
 To visit please click this link: to view the webpage.
-Please use this link: 
+Please use this link: file:///C:/Users/Curti/OneDrive/Documents/mixedMessagesP/index.html
 
 ## Technologies used
 
