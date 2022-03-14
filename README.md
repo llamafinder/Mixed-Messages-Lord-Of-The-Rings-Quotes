@@ -1,3 +1,8 @@
+
+![ring-4612457_960_720](https://user-images.githubusercontent.com/100291255/158185682-0edf8035-10c3-4e20-8880-b34a6a54a6b1.jpg)
+
+
+
 # Mixed-Messages-Lord-Of-The-Rings-Quotes
 
 Hi guys this is my mixed messeges project for the codecademy full stack course, i am currently 25% through it. i still have much to learn !
